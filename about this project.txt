@@ -1,0 +1,14 @@
+Register authentication 
+
+Login authentication 
+
+React protected routes
+
+Refresh Token
+
+Persist Login
+
+many of custom hooks like useLocalStorage, useInput, useToggle to save user information
+
+Data security like password, token and roles using some of packages like 
+disable-dev-tools, bcrypt, jwt-decode and disable dev tools if we using react redux toolkit
